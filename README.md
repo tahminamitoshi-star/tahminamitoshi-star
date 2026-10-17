@@ -9,7 +9,7 @@ Master's student in Sustainable Development at the University of Warsaw, with ea
 ## Research projects
 
 **AI Adoption, SME Productivity and Employment in the European Union: Evidence and Policy Lessons for Azerbaijan**
-*2nd International Conference "New Generation Economy: Challenges and Prospects", ESRI, Baku, 16 October 2026 (online). Abstract accepted.*
+*2nd International Conference "New Generation Economy: Challenges and Prospects", ESRI, Baku, 16 October 2026. Abstract accepted; presented online.*
 - Built a panel of 27 EU countries × 3 firm-size classes × 3 years (243 observations) from four Eurostat datasets
 - Estimated two-way fixed effects models with country-clustered errors and a wild cluster bootstrap (only 27 clusters), plus six robustness checks including leave-one-country-out
 - Found that the AI adoption gap between small and large firms widened from 22 to 38 percentage points between 2021 and 2025
