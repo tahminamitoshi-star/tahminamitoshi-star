@@ -8,13 +8,6 @@ Master's student in Sustainable Development at the University of Warsaw, with ea
 
 ## Research projects
 
-**Reproducible Integration of Eurostat ICT Usage and Structural Business Statistics: Coverage Alignment and the Measurement of Enterprise AI Adoption**
-*NTTS 2027, Eurostat, Brussels, 16–18 March 2027. Extended abstract submitted, under review.*
-- Pulled Eurostat ICT usage survey and SBS data for 27 EU countries (2021, 2023, 2024) through the SDMX 3.0 API, and built a Python pipeline that aligns the two sources by sector and firm size
-- Derived upper and lower bounds for confidential cells; the reconstruction matched the published EU27 AI adoption rate within 0.12–0.19 percentage points
-- Showed that the choice of denominator changes the estimated number of AI-using enterprises by 6–11%
-- Logged every download, decision and source, with SHA-256 file hashes
-
 **AI Adoption, SME Productivity and Employment in the European Union: Evidence and Policy Lessons for Azerbaijan**
 *2nd International Conference "New Generation Economy: Challenges and Prospects", ESRI, Baku, 16 October 2026 (online). Abstract accepted.*
 - Built a panel of 27 EU countries × 3 firm-size classes × 3 years (243 observations) from four Eurostat datasets
