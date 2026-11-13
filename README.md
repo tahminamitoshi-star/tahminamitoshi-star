@@ -9,7 +9,8 @@ Master's student in Sustainable Development at the University of Warsaw, with ea
 ## Research projects
 
 **AI Adoption, SME Productivity and Employment in the European Union: Evidence and Policy Lessons for Azerbaijan**
-*2nd International Conference "New Generation Economy: Challenges and Prospects", ESRI, Baku, 16 October 2026. Abstract accepted; presented online.*
+*2nd International Conference "New Generation Economy: Challenges and Prospects", ESRI, Baku, 16 October 2026. Abstract accepted; presented online.*  
+With Md. Rezaur Rahman ([ORCID](https://orcid.org/0009-0003-3119-5576))
 - Built a panel of 27 EU countries × 3 firm-size classes × 3 years (243 observations) from four Eurostat datasets
 - Estimated two-way fixed effects models with country-clustered errors and a wild cluster bootstrap (only 27 clusters), plus six robustness checks including leave-one-country-out
 - Found that the AI adoption gap between small and large firms widened from 22 to 38 percentage points between 2021 and 2025
@@ -24,6 +25,8 @@ Master's student in Sustainable Development at the University of Warsaw, with ea
 ## Publication
 
 Mitoshi, T. Z., & Ziobrowska-Sztuczka, J. (2024). *Data-Driven Marketing: A Catalyst for Sustainable Business Development in Corporations.* Proceedings of the 27th Excellence in Services International Conference (EISIC), University of Bergamo, Italy. ISBN 979-10-415-5220-7. [Link](https://sites.les.univr.it/eisic/archives/2690)
+
+Co-author: Dr. Justyna Ziobrowska-Sztuczka, University of Wroclaw ([ORCID](https://orcid.org/0000-0002-9572-1438))
 
 ## Skills
 
